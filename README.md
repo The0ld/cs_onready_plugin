@@ -6,7 +6,6 @@ This plugin provides an extension to Godot's functionality, emulating the `@onre
 
 1. Clone this repository or download the ZIP.
 2. Copy the `cs_onready_plugin` folder into your `addons` directory in your Godot project.
-3. Activate the plugin through the `Project` > `Project Settings` > `Plugins` menu.
 
 ## Usage
 
